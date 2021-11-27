@@ -1,0 +1,38 @@
+.menu{
+    list-style:none;
+      position: absolute;
+      top: 10px;
+      right:30px;
+      z-index:10;
+      cursor:pointer;
+  }
+  
+  
+  .links{  
+      padding-top: 5px;
+      padding-left: 9px;
+      padding-right: 9px;
+      padding-bottom: 5px;
+      font-family: fantasy;
+      font-size: 20px;
+  }
+  body {
+      margin: 0;
+      text-align: center;
+      background: repeating-linear-gradient(190deg,rgb(1, 26, 250),rgba(255, 0, 0, 0.267) 7%,rgb(0, 128, 0) 10%);
+  }
+  img{
+    height:200px;
+    border-radius:50%;
+    border:black solid;
+  }
+  #intro{
+    padding-left:500px;
+    padding-right:500px;
+    font-size:18px;
+    font-family: 'Are You Serious', cursive;
+    font-size: 30px;
+  }
+  #brand{
+    font-size:100px;
+  }
